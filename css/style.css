@@ -1,1 +1,18 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.water {
+  margin-top: 20px;
+  background: #c9c3c3;
+  border: solid 4px #000;
+  padding: 10px;
+}
+
+.water__btn {
+  width: 150px;
+  height: 50px;
+  background-color: #15c23d;
+  color: #fff;
+  border: none;
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 15px;
+}
+/*# sourceMappingURL=style.css.map */
