@@ -19,8 +19,6 @@ console.log(arrWater);
 
 let sum = 0;
 function loadWater() {
-  let ol = document.createElement("ol");
-
   for (let i = 0; i < arrWater.length; i++) {
     sum = sum + arrWater[i] * priceWater;
     console.log(sum);
